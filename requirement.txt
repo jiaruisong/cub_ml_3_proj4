@@ -1,0 +1,9 @@
+numpy>=1.21
+pandas>=1.5
+matplotlib>=3.6
+seaborn>=0.12
+scikit-learn>=1.3
+tensorflow>=2.15     # installs Keras 2.x internally
+keras-tuner>=1.4      # optional hyper-parameter search
+joblib>=1.3
+tqdm>=4.66
